@@ -1,4 +1,4 @@
-<h1><span style="background-color: #ff0000; color: #ffffff;">📱 Introducing our powerful sub-app! Try it out for quality and functionality. If you love it, upgrade to the complete app. 🚀 #AppQuality"</span></h1>
+<h1><span style="background-color: #ff0000; color: #ffffff;">📱 Introducing our powerful blog app! Try it out for quality and functionality. If you love it, upgrade to the complete app. 🚀 #AppQuality"</span></h1>
 <p><span style="background-color: #ff0000; color: #ffffff;"><a title="https://codecanyon.net/item/blog-master-flutter-app-ios-android-admin-panel-author-panel/38886391" href="https://codecanyon.net/item/blog-master-flutter-app-ios-android-admin-panel-author-panel/38886391">https://codecanyon.net/item/blog-master-flutter-app-ios-android-admin-panel-author-panel/38886391</a></span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
