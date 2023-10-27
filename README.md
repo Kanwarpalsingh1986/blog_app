@@ -1,4 +1,7 @@
 <h1><span style="background-color: #ff0000; color: #ffffff;">📱 Introducing our powerful sub-app! Try it out for quality and functionality. If you love it, upgrade to the complete app. 🚀 #AppQuality"</span></h1>
+<p><span style="background-color: #ff0000; color: #ffffff;"><a title="https://codecanyon.net/item/blog-master-flutter-app-ios-android-admin-panel-author-panel/38886391" href="https://codecanyon.net/item/blog-master-flutter-app-ios-android-admin-panel-author-panel/38886391">https://codecanyon.net/item/blog-master-flutter-app-ios-android-admin-panel-author-panel/38886391</a></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.appsworld.blogmaster" target="_blank" rel="noopener"> <img src="http://fwdtechnology.co/code_canyon_assets/Common/playstore.png" alt="Johnson Pond" height="150" /> </a></p>
 <p><a href="https://youtu.be/1f89cIowMAU&rdquo; target="> <img src="http://fwdtechnology.co/code_canyon_assets/blog_master/2.png" width="1000" height="400" /> </a> <a href="https://blogmaster-admin-panel.firebaseapp.com"> <img src="http://fwdtechnology.co/code_canyon_assets/blog_master/3.png" width="1000" height="400" /> </a> <a href="https://blogmaster-author-panel.firebaseapp.com"> <img src="http://fwdtechnology.co/code_canyon_assets/blog_master/4.png" width="1000" height="400" /> </a></p>
